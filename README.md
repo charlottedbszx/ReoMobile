@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150" width="120" alt="REO Mobile Logo"/>
+  <img src="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/icon.png" width="120" alt="REO Mobile Logo"/>
 </p>
 
 <h1 align="center">REO Mobile</h1>
