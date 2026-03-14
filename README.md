@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Logo.png" width="120" alt="REO Mobile Logo"/>
+  <img src="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Logo.png" width="140" alt="REO Mobile Logo"/>
 </p>
 
 <h1 align="center">REO Mobile</h1>
@@ -89,6 +89,10 @@ REO Mobile is designed for:
   &nbsp;
   <a href="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Preview%203.png" target="_blank">
     <img src="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Preview%203.png" width="280" alt="Preview 3" />
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Preview%204.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Preview%204.png" width="280" alt="Preview 4" />
   </a>
 </p>
 
