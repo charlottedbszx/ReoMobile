@@ -76,6 +76,24 @@ REO Mobile is designed for:
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Preview%201.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Preview%201.png" width="280" alt="Preview 1" />
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Preview%202.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Preview%202.png" width="280" alt="Preview 2" />
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Preview%203.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/charlottedbszx/ReoMobile/refs/heads/main/Resources/Preview%203.png" width="280" alt="Preview 3" />
+  </a>
+</p>
+
+---
+
 ## Developer
 
 Developed and maintained by:
