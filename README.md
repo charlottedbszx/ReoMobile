@@ -44,7 +44,7 @@ The **source code is not publicly distributed in this repository**.
 
 You can download the latest version of the application from the **Releases** section.
 
-➡ **[Download Latest Version](../../releases)**
+**[Download Latest Version](../../releases)**
 
 ### Installation Guide
 
